@@ -1,5 +1,6 @@
 {
     "nrf-connect.applications": [
-        "${workspaceFolder}\\blinky"
+        "${workspaceFolder}\\blinky",
+        "${workspaceFolder}\\button_led_with_dt"
     ]
 }
